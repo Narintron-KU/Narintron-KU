@@ -23,7 +23,4 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![line](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)][discord]
-<!-- ![github](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
--->
-[discord]: https://discord.gg/narinboy
+[![Discord](https://img.shields.io/badge/Discord-narinboy-5865F2?style=flat&logo=discord&logoColor=white)](#)
